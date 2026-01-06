@@ -18,4 +18,6 @@ public static void main(String[]args) {
 }
 
 //Fiquei com preguiça de por Scanner KKK.
+
+//Seloko minutos quebrando a cabeça para ser só mudar o valor KK.
 }
