@@ -4,11 +4,11 @@ public static void main(String[]args) {
 	
 	int _InputValue1,_InputValue2;
 	
-	_InputValue1 = 24;
+	_InputValue1 = 25;
 	_InputValue2 = 6;
 	
 	
-	if(_InputValue2 % 2 == 0 ) {
+	if(_InputValue2 % _InputValue1 == 0 || _InputValue1 % _InputValue2 == 0) {
 		System.out.println("São multiplos");
 		
 	}
@@ -20,4 +20,6 @@ public static void main(String[]args) {
 //Fiquei com preguiça de por Scanner KKK.
 
 //Seloko minutos quebrando a cabeça para ser só mudar o valor KK.
+
+//Apelei por teach, é o cara seloko.
 }
